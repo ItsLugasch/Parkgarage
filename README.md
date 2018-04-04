@@ -1,5 +1,5 @@
 # Parkgarage
 
-*ItsLugasch
-*alexandermayerl
-*ItsUnimportant
+* ItsLugasch
+* alexandermayerl
+* ItsUnimportant
